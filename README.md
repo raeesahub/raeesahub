@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Raeesa, junior doctor and full-stack developer.
+I'm Raeesa, doctor and full-stack developer.
 <!--
 **raeesahub/raeesahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
