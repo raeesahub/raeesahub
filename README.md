@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Raeesa, doctor and full-stack developer.
+I'm Raeesa - doctor, full-stack developer, and teacher [@lewagon](https://github.com/lewagon).
 <!--
 **raeesahub/raeesahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
